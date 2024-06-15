@@ -4,7 +4,7 @@ Welcome to the Basic Python Programs repository! This repository is designed to 
 
 ## Repository Structure
 
-The repository is organized into directories, each containing programs related to specific topics or problem types. Here's an overview of the structure:
+The repository is organized into directories, each containing programs related to specific topics or problem types. Here's an overview of the structure These projects include these following topics:
 
 - **01_Basics**
   - Hello World
